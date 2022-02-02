@@ -1,0 +1,1 @@
+<?php die("Nope. You are an ass, hacker.") ?>password
