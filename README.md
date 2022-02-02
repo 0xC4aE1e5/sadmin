@@ -1,6 +1,6 @@
 # sadmin
 
-`sadmin` is a light-weight admin page. It's really simple. Just drag `sadmin` on to your website. And, the default password is `password`.
+`sadmin` is a light-weight admin page. It's really simple. Just drag `sadmin` on to your website, then go to `/sadmin/`. And, the default password is `password`.
 
 ## Changing the password
 
