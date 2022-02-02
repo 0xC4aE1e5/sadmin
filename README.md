@@ -4,7 +4,7 @@
 
 ## Changing the password
 
-In sadmin/password.php, after `?>`, put in your password. No newlines, no space before, just the password.
+In `sadmin/password.php`, after `?>`, put in your password. No newlines, no space before, just the password.
 
 ## Uploading a website
 
